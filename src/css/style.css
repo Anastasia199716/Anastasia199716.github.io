@@ -67,25 +67,29 @@ nav{
     margin: 58px 14px 0px 14px;   
 }
 
+.item-skills{
+    text-align: center;
+}
 .item-skills h3{
     text-align: center;
-    margin: 108px ;
     color: #263244;
     font-size: 50px;
     font-weight: bold;
+    margin: 107px 0px 31px 0px;
     }
 
 .image{
     text-align: center;
+    margin: 94px 0px 24px 0px;   
+}
     
 }
-
 .item-skills p{
-    border: 0px solid ;
-    width:1000px; 
+   border: 0px solid;
+    width:900px; 
     height: 50px;
-  color: #80858f;
-  margin: 24px 595px 0px 595px;
+    color: #80858f;
+    margin: 24px 590px 0px 595px;
 }
 .item-skills input{
     text-align: center;
@@ -99,14 +103,15 @@ nav{
     padding: 0px 20px;
     margin: 20px 14px 0px 886px;   
 }
-.item{
-    float:left;
+.item h3{
+   
     text-align: center;
     font-size: 40px;
     color: #263244;
     font-weight: bold;
-    margin:107px 0px 0px 800px ;
+    margin: 100px;
     }
+
 .For__me{
     width: 1910px;
     height: 520px;
@@ -115,12 +120,20 @@ nav{
     text-align: center;    
 }
 
-.skills{
-   float: left ; 
+
+.skills_firstskills{
+   float: left ;
+   width: 300px;
    color: #222f41;
-   margin:100px 1280px 0px 400px;
+   text-align: center;
+   margin:112px 0px 0px 416px;
 }
-    
+  
+.skills{
+    float: left ;
+    margin: 110px;
+    padding: 40px;
+}
 .skills h4{
     color: #cf7600;
     font-weight: bold;
@@ -131,28 +144,3 @@ nav{
     float: left;
 }
 
-.example{
-    color: #222f41;
-    margin:100px 900px 0px 710px; 
-    float: left ; 
-   
-}
-
-.example h4{
-    color: #cf7600;
-    font-weight: bold;
-    }
- 
-.example p{
-    color: #3f495a;
-    
-}
-
-.case h3{
-   float:left;
-    text-align: center;
-    font-size: 40px;
-    color: #263244;
-    font-weight: bold;
-    margin:107px 0px 0px 800px ; 
-}
