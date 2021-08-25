@@ -85,31 +85,36 @@ nav{
     
 }
 .item-skills p{
-   border: 0px solid;
+    border: 0px solid;
     width:900px; 
     height: 50px;
     color: #80858f;
     margin: 24px 590px 0px 595px;
 }
+
 .item-skills input{
+    
     text-align: center;
     height: 33px;
     width: 155px;
     border:2px solid #6d7682;
-    background: url(../img/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png)left   no-repeat;
+    background: url(../img/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png)left no-repeat;
     border-radius: 5px;
     color:#6d7682;
     font-size: 13px;
-    padding: 0px 20px;
-    margin: 20px 14px 0px 886px;   
+    margin: 20px 0px 0px 0px;  
+    padding-left: 11px;
 }
-.item h3{
+
+
+
+.item {
    
     text-align: center;
     font-size: 40px;
     color: #263244;
-    font-weight: bold;
-    margin: 100px;
+    font-weight:bold;
+    padding: 107px;
     }
 
 .For__me{
@@ -117,23 +122,23 @@ nav{
     height: 520px;
     background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.png)90% 100%/auto no-repeat;
     margin: 98px 0px 0px 0px;
-    text-align: center;    
+    text-align: center; 
+    
 }
 
-
-.skills_firstskills{
-   float: left ;
-   width: 300px;
-   color: #222f41;
-   text-align: center;
-   margin:112px 0px 0px 416px;
+.block{
+    float: left ;
+    margin: 0px 450px 100px  450px;
 }
   
 .skills{
     float: left ;
-    margin: 110px;
-    padding: 40px;
+    color: #222f41;
+    width: 250px;
+    margin:0px 0px 0px 0px;
+    
 }
+
 .skills h4{
     color: #cf7600;
     font-weight: bold;
@@ -144,3 +149,131 @@ nav{
     float: left;
 }
 
+.case h3{
+    text-align: center;
+    color: #263244;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0px 0px 30px 0px;
+}
+
+.case p{
+    text-align: center;
+    margin: 22px 0px 42px;
+    color: #3f495a;
+}
+
+.photo{
+    text-align: left;
+     background: url(../img/%D1%84%D0%B0%D0%BD%D0%B5%D1%80%D0%B0.png);
+     width: 100%;
+     height: 590px;
+     margin: 0px 0px 0px 0px;  
+}
+
+.client{
+   width: 100%; 
+   float: left;
+   text-align: left; 
+   margin: 41px 0px 200px 375px;
+   
+}
+
+.client h4{
+    color: #384354;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 15px 0px 13px 0px;
+}
+
+.client input{
+    width: 200px;
+    height: 40px;
+    border: 2px solid #63b5ae;
+    background: #63b5ae;
+    border-radius: 5px;
+    font-size: 17px;
+    color: #fff;
+    margin: 23px 0px ;
+    
+}
+
+.site{
+    float: left;
+}
+
+.summa h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 55px;
+    color:#1c2534;
+}
+  
+.tiv{
+     
+    margin: 0px 0px 0px 500px;
+    text-align: left;
+    color:#1c2534;
+    
+}
+
+.tip h4{
+    margin: 0px;
+    font-size:30px;
+    font-weight: bold;    
+}
+
+.tip select{
+    margin: 38px;
+    width: 845px
+}
+
+
+.nul{
+    text-align: left; 
+    margin: 10px 0px 256px 500px;
+    font-size: 20px;
+    font-weight: bold; 
+    
+}
+
+.zero1{
+    float:left;
+    margin:-50px 0px 0px 880px;
+}
+
+.statistic{
+    float: left ;
+    margin: 87px 450px 100px  450px;
+    
+    
+}
+
+.skills2{
+    float: left ;
+    width: 250px;
+}
+
+.skills2 h4{
+    color: #323e4f;
+    font-size: 30px;
+    font-weight: bold;    
+    margin: 30px;
+}
+
+.skills2 p{
+     color: #323e4f;
+     font-size: 20px;
+     font-weight: 500;
+}
+
+.gen{
+    color: #243042;
+    margin: 38px 0px 100px ;
+    text-align: center;
+}
+
+.contact{
+    text-align: center;
+    
+}
